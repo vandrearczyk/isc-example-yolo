@@ -177,4 +177,4 @@ cython_debug/
 data/
 # notebooks/other/
 # outputs/
-models/*
+models/
